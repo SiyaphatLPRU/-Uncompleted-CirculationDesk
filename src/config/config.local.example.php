@@ -9,6 +9,10 @@ return [
         'port' => 3306,
         'name' => 'circulation_desk',
         'user' => 'root',
+<<<<<<< Updated upstream
         'pass' => '',
+=======
+        'pass' => 'change_me_app',
+>>>>>>> Stashed changes
     ],
 ];
