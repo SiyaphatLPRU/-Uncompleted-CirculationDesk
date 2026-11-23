@@ -23,7 +23,7 @@ return [
         'host' => (string) $setting('DB_HOST', 'host', '127.0.0.1'),
         'port' => (int) $setting('DB_PORT', 'port', 3306),
         'name' => (string) $setting('DB_NAME', 'name', 'circulation_desk'),
-        'user' => (string) $setting('DB_USER', 'user', 'cdesk'),
+        'user' => (string) $setting('DB_USER', 'user', 'root'),
         'pass' => (string) $setting('DB_PASS', 'pass', ''),
     ],
 

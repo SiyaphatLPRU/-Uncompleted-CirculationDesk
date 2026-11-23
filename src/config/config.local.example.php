@@ -8,7 +8,7 @@ return [
         'host' => '127.0.0.1',
         'port' => 3306,
         'name' => 'circulation_desk',
-        'user' => 'cdesk',
-        'pass' => 'change_me_app',
+        'user' => 'root',
+        'pass' => '',
     ],
 ];
